@@ -1,1 +1,3 @@
-# Python-Mirea/n/nthis is my repo for the python course
+# Python-Mirea
+
+this is my repo for the python course
