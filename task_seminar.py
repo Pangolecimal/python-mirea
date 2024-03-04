@@ -1,4 +1,18 @@
 
+# print((lambda x: x % sum([int(i) for i in f"{x}"]) == 0)(81))
+
+# def ham(a, b):
+#     return bin(a ^ b)[2:].count('1')
+#
+#
+# print(ham(0, 0b111111))
+
+input = "ABBCCCDEF"
+output = [{char: input.count(char)} for char in set(input)]
+
+
+print(output)
+
 
 # def all_permutations(s):
 #     if len(s) == 0:
